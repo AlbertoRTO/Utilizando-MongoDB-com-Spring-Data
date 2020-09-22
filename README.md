@@ -1,5 +1,5 @@
 # Utilizando-MongoDB-com-Spring-Data
-Utilizando Java 8 MongoDB com Spring Data 
+Utilizando Java 8 MongoDB com Spring Data e Maven para gerenciamento das dependencias
 
 Projeto realizado para aprender MongoDb
 
