@@ -11,3 +11,5 @@ documento simi estruturado são armazenados em formatos como Json
 
 Basicamente banco dados orientado a documento coleção de chave e valor
 utilizando como base o formato json
+
+
